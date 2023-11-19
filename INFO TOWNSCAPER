@@ -1,0 +1,47 @@
+<html>
+    <head>
+        <title>INFO TOWNSCAPER </title>
+        <link rel="stylesheet"href="style.css"/>
+    </head>
+    <body>
+        <header>
+            <h1 class="texth1">
+                <i>
+                      TOWNSCAPER 
+                    </i>
+                      </h1>
+            <a class="a1" href="#info">інформація</a>
+            <a class="a2" href="#image">картинки </a>
+            <a class="a2" href="#down">низ</a>
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKRjgWEAPO1G3EAszzFOWA5mQCZr2ta9lSAQ&usqp=CAU" width="190px">
+            <p class="textp">Інформація Information </p>
+        </header>
+        <main>
+        <p id="info"> 
+            <i>
+            <b>
+             TOWNSCAPER-це гра в якій можна будувати хатини,хмарочоси і навіть містa!Гра була випущена в жовтні 2021 року
+            </b>
+            </i>
+            </p>
+            <p class="block">
+
+                </p>
+            <p class="info2" id="info"> 
+            <i>
+                <b>
+              вона є на Windows , macOS , Switch, iOS , Android,Xbox One , Xbox Series X/S, жанр гри Містобудівна гра , режим гри Один гравець
+             </b>
+            </i>
+            </p>
+            <img src="https://i.pinimg.com/originals/cc/a5/a3/cca5a33fad8d00e5a71d524195858e74.png" width="260px">
+            <img id="image"src="https://cdn.cloudflare.steamstatic.com/steam/apps/1291340/ss_07f2bedd6f510cb08bf5a0708e3a2e8ed299fbbd.1920x1080.jpg?t=1699025187" width="260px">
+            <img src="https://randomgamesdotcom.files.wordpress.com/2022/12/screenshot_2022-12-16-10-12-06-045_com.oskarstalberg.townscaper.jpg?w=1024" width="300px">
+            <img src="https://images.adsttc.com/media/images/5f21/7878/b357/653f/3b00/057d/large_jpg/ss_aea2804d6c5cbeff9967c28fc16e15003ddb39d4.1920x1080.jpg?1596029038"width="200px">
+            <img src="https://www.cnet.com/a/img/resize/c28a7ea6b11c5b5a126e18723ff7c982861fb13c/hub/2020/07/18/523fbdd8-ae48-484d-b86f-ca1a4da1a6ce/townscaper-by-jonathan.jpg?auto=webp&width=1200"width="590px">
+        </main>
+        <footer id="down">
+<a class="a3" href="https://gogunlocked.com/townscaper-free-download/">посилання на гру </a>
+          </footer>
+    </body>
+</html>
